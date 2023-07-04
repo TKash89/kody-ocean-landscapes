@@ -1,2 +1,2 @@
-## kody-ocean-landscapes
-# Professional ocean photography landing page and portfolio
+# kody-ocean-landscapes
+## Professional ocean photography landing page and portfolio
