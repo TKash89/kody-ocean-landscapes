@@ -38,12 +38,12 @@ function Example(args) {
               </NavLink>
             </NavItem>
             <NavItem>
-              <NavLink href="aboutMe">
+              <NavLink href="/aboutme/">
                 About Me
               </NavLink>
             </NavItem> 
             <NavItem>
-              <NavLink href="contact">
+              <NavLink href="/contact/">
                 Contact
               </NavLink>
             </NavItem>
